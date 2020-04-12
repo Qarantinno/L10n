@@ -1,0 +1,30 @@
+{
+    "msg_desktop_share": {"en": "Share what you see in a store right now, that's available from your smartphone!", "ru": "Поделись тем что видишь в магазине сейчас, функция доступна на смартфоне"},
+    
+    "status_perfect": {"en": "Perfect time for shopping!", "ru": "Лучшее время идти за покупками!"},
+    "status_nice": {"en": "That’s a nice time for shopping!", "ru": "Хорошее время для похода в магазин!"},
+    "status_not_best": {"en": "Perhaps not the best moment", "ru": "Пожалуй не лучшее время"},
+    "status_no_way": {"en": "Better stay home", "ru": "Лучше остаться дома"},
+    "btn_label_discover": {"en": "Discover statistic", "ru": "Изучи статистику"},
+
+    "msg_thanks_for_share": {"en": "Thanks for sharing you experience. We do really appreciate it!", "ru": "Спасибо за помощь! "},
+    "msg_do_share": {"en": "I'm shopping now, share my experience", "ru": "Поделись тем, что видишь сейчас в магазине"},
+
+    "option_place_product_store": {"en": "Product store", "ru": "Магазин"},
+    "option_modifier_mini": {"en": "Mini/local", "ru": "Небольшой"},
+    "option_modifier_super": {"en": "Supermarket", "ru": "Супермаркет"},
+    "option_modifier_hyper": {"en": "Hyper", "ru": "Гипермаркет"},
+
+    "btn_label_add_comment": {"en": "Add a comment", "ru": "Добавить комментарий"},
+    "btn_label_post": {"en": "Post", "ru": "Отправить"},
+
+    "option_modifier_any": {"en": "Any kind", "ru": "Любой размер"},
+    "option_week_day_any": {"en": "Any week day", "ru": "Любой день недели"},
+    "option_week_day_mon": {"en": "Mon", "ru": "Пн"},
+    "option_week_day_tue": {"en": "Tue", "ru": "Вт"},
+    "option_week_day_wed": {"en": "Wed", "ru": "Ср"},
+    "option_week_day_thu": {"en": "Thu", "ru": "Чт"},
+    "option_week_day_fri": {"en": "Fri", "ru": "Пт"},
+    "option_week_day_sat": {"en": "Sat", "ru": "Сб"},
+    "option_week_day_san": {"en": "San", "ru": "Вс"}
+}

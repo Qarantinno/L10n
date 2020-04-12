@@ -7,7 +7,7 @@
     "status_no_way": {"en": "Better stay home", "ru": "Лучше остаться дома"},
     "btn_label_discover": {"en": "Discover statistic", "ru": "Изучи статистику"},
 
-    "msg_thanks_for_share": {"en": "Thanks for sharing you experience. We do really appreciate it!", "ru": "Спасибо за помощь! "},
+    "msg_thanks_for_share": {"en": "Thanks for sharing you experience. We do really appreciate it!", "ru": "Спасибо за помощь! Эта информация поможет улучшить статистику."},
     "msg_do_share": {"en": "I'm shopping now, share my experience", "ru": "Поделись тем, что видишь сейчас в магазине"},
 
     "option_place_product_store": {"en": "Product store", "ru": "Магазин"},

@@ -26,5 +26,5 @@
     "option_week_day_thu": {"en": "Thu", "ru": "Чт"},
     "option_week_day_fri": {"en": "Fri", "ru": "Пт"},
     "option_week_day_sat": {"en": "Sat", "ru": "Сб"},
-    "option_week_day_san": {"en": "San", "ru": "Вс"}
+    "option_week_day_san": {"en": "Sun", "ru": "Вс"}
 }
